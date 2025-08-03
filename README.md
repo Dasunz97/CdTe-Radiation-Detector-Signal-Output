@@ -49,6 +49,4 @@ Below are the simulated voltage signals as a function of time for both holes and
 
 ---
 
-*This notebook and README were generated to facilitate understanding and simulation of signal formation in CdTe detectors with a charge sensitive amplifier under gamma excitation, including all the key equations and plots for practical reference.*
-### Below graph is Voltage created from holes against time
 
